@@ -1,5 +1,3 @@
-Note: I have not presented my solution to mentors yet.
-
 ## What I've Done
 
 ### Extra Points:
@@ -74,4 +72,3 @@ Note: I have not presented my solution to mentors yet.
 I'm happy to know these features of *MySQL*.
 I have to note that writting this file was quite difficult for me,
 which reinforces my surmise that my sense of finding the importance needs some development.
-Perhaps I can tell you more after I've presented my work.
